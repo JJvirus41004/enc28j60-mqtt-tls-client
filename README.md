@@ -90,7 +90,7 @@ system behavior, debugging failures, and iteratively refining the design rather 
 The repository reflects a working implementation that is being actively revisited for further documentation, cleanup, and refinement.
 
 ## Repository Contents
-- `ENC28J60_MQTT_TLS_Client(ESP32).ino` – ENC28J60-based MQTT client implementation with TLS and FreeRTOS integration
+- `enc28j60_mqtt_tls_client_esp32.ino` – ENC28J60-based MQTT client implementation with TLS and FreeRTOS integration
 
 ## Status
 ✔ Functional implementation  

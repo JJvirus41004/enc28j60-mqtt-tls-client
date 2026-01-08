@@ -97,6 +97,8 @@ The repository reflects a working implementation that is being actively revisite
 🛠 Ongoing documentation and code refinement
 
 ## Documentation
+- [ENC28J60 MQTT TLS Client – Design Notes & Experimental Observations](docs/enc28j60_mqtt_tls_rnd_notes.pdf)
+
 Additional technical notes and experimental observations are available in the `docs/` directory.  
 These documents were created by the author as part of an R&D-focused implementation carried out by the author
 

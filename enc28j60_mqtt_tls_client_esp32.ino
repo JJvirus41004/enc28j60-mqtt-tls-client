@@ -39,10 +39,10 @@ IPAddress subnet(255, 255, 255, 0);
 
 
 // MQTT broker details
-const char* mqtt_host = "otplai.com";
+const char* mqtt_host = "your_mqtt_broker.com";
 const int mqtt_port = 8883;
-const char* mqtt_user = "oyt";
-const char* mqtt_pass = "123456789";
+const char* mqtt_user = "your_username";
+const char* mqtt_pass = "your_password";
 const char* mqtt_publish_topic = "MyESP32/Test/Status"; // Topic for publishing
 const char* mqtt_subscribe_topic = "MyESP32/Commands";   // Topic for subscribing
 
